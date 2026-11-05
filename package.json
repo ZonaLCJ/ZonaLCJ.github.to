@@ -1,0 +1,7 @@
+{
+  "name": "pinned-fermi-level-site",
+  "private": true,
+  "type": "module",
+  "description": "Static teaching site on Fermi-level pinning at Schottky contacts. No dependencies, no build step.",
+  "scripts": { "test": "node --test" }
+}
